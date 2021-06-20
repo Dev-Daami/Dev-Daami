@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img alt="logo gif" title="logo" src="https://cdn.discordapp.com/attachments/855878882603433984/856201134468497408/ezgif-3-d160c74bffeb.gif%22%3E">
+  <img alt="logo gif" title="logo" src="https://cdn.discordapp.com/attachments/855878882603433984/856201134468497408/ezgif-3-d160c74bffeb.gif">
   <img alt="discord" title="discord" src="https://discord.c99.nl/widget/theme-3/395558746803142657.png">
 </div>
 
