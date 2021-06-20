@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img alt="discord" title="discord" src="https://discord.c99.nl/widget/theme-3/347077478726238228.png">
+  <img alt="discord" title="discord" src="https://discord.c99.nl/widget/theme-3/395558746803142657.png">
 </div>
 
 <br>
