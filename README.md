@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Dev-Daami/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=B612&color=fe8019&center=true&vCenter=true&lines=Welcome+to+my+profile.;Hey+I'm+Daami!;I'm+16+years+old!;Have+a+great+day!;Currently+learning+Responsive+WebDev"></a>
+  <a href="https://github.com/Dev-Daami/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=B612&color=fe8019&center=true&vCenter=true&lines=Welcome+to+my+profile.;Hey+I'm+Daami!;I'm+17+years+old!;Have+a+great+day!;Currently+learning+Responsive+WebDev"></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Dev-Daami&style=flat-square&color=fe8019&label=Views"
 </p>
